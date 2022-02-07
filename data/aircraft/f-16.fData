@@ -1,0 +1,13 @@
+#F-16
+F-16
+
+LiftCoefficient {}
+DragCoefficient {}
+TorqueCoefficient {}
+leftElevator {}
+leftAileron {}
+leftRudder {}
+rightElevator {}
+rightAileron {}
+rightRudder {}
+middleRudder {}
